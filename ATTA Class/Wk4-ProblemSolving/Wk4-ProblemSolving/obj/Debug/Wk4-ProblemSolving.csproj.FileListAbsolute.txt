@@ -1,0 +1,7 @@
+D:\CNM Docs\Programming\C#\Wk4-ProblemSolving\Wk4-ProblemSolving\bin\Debug\Wk4-ProblemSolving.exe.config
+D:\CNM Docs\Programming\C#\Wk4-ProblemSolving\Wk4-ProblemSolving\bin\Debug\Wk4-ProblemSolving.exe
+D:\CNM Docs\Programming\C#\Wk4-ProblemSolving\Wk4-ProblemSolving\bin\Debug\Wk4-ProblemSolving.pdb
+D:\CNM Docs\Programming\C#\Wk4-ProblemSolving\Wk4-ProblemSolving\obj\Debug\Wk4-ProblemSolving.csprojAssemblyReference.cache
+D:\CNM Docs\Programming\C#\Wk4-ProblemSolving\Wk4-ProblemSolving\obj\Debug\Wk4-ProblemSolving.csproj.CoreCompileInputs.cache
+D:\CNM Docs\Programming\C#\Wk4-ProblemSolving\Wk4-ProblemSolving\obj\Debug\Wk4-ProblemSolving.exe
+D:\CNM Docs\Programming\C#\Wk4-ProblemSolving\Wk4-ProblemSolving\obj\Debug\Wk4-ProblemSolving.pdb

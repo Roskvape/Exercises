@@ -1,0 +1,7 @@
+D:\CNM Docs\Programming\C#\Wk1_Functions_01\Wk1_Functions_01\bin\Debug\Wk1_Functions_01.exe.config
+D:\CNM Docs\Programming\C#\Wk1_Functions_01\Wk1_Functions_01\bin\Debug\Wk1_Functions_01.exe
+D:\CNM Docs\Programming\C#\Wk1_Functions_01\Wk1_Functions_01\bin\Debug\Wk1_Functions_01.pdb
+D:\CNM Docs\Programming\C#\Wk1_Functions_01\Wk1_Functions_01\obj\Debug\Wk1_Functions_01.csprojAssemblyReference.cache
+D:\CNM Docs\Programming\C#\Wk1_Functions_01\Wk1_Functions_01\obj\Debug\Wk1_Functions_01.csproj.CoreCompileInputs.cache
+D:\CNM Docs\Programming\C#\Wk1_Functions_01\Wk1_Functions_01\obj\Debug\Wk1_Functions_01.exe
+D:\CNM Docs\Programming\C#\Wk1_Functions_01\Wk1_Functions_01\obj\Debug\Wk1_Functions_01.pdb

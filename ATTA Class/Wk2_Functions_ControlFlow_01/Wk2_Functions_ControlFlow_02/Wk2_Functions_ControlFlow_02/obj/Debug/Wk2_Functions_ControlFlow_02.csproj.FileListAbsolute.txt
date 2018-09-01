@@ -1,0 +1,7 @@
+D:\CNM Docs\Programming\C#\Wk2_Functions_ControlFlow_01\Wk2_Functions_ControlFlow_02\Wk2_Functions_ControlFlow_02\bin\Debug\Wk2_Functions_ControlFlow_02.exe.config
+D:\CNM Docs\Programming\C#\Wk2_Functions_ControlFlow_01\Wk2_Functions_ControlFlow_02\Wk2_Functions_ControlFlow_02\bin\Debug\Wk2_Functions_ControlFlow_02.exe
+D:\CNM Docs\Programming\C#\Wk2_Functions_ControlFlow_01\Wk2_Functions_ControlFlow_02\Wk2_Functions_ControlFlow_02\bin\Debug\Wk2_Functions_ControlFlow_02.pdb
+D:\CNM Docs\Programming\C#\Wk2_Functions_ControlFlow_01\Wk2_Functions_ControlFlow_02\Wk2_Functions_ControlFlow_02\obj\Debug\Wk2_Functions_ControlFlow_02.csprojAssemblyReference.cache
+D:\CNM Docs\Programming\C#\Wk2_Functions_ControlFlow_01\Wk2_Functions_ControlFlow_02\Wk2_Functions_ControlFlow_02\obj\Debug\Wk2_Functions_ControlFlow_02.csproj.CoreCompileInputs.cache
+D:\CNM Docs\Programming\C#\Wk2_Functions_ControlFlow_01\Wk2_Functions_ControlFlow_02\Wk2_Functions_ControlFlow_02\obj\Debug\Wk2_Functions_ControlFlow_02.exe
+D:\CNM Docs\Programming\C#\Wk2_Functions_ControlFlow_01\Wk2_Functions_ControlFlow_02\Wk2_Functions_ControlFlow_02\obj\Debug\Wk2_Functions_ControlFlow_02.pdb

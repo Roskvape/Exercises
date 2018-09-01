@@ -1,0 +1,7 @@
+D:\CNM Docs\Programming\C#\Wk6-ProblemSolving\Wk6-ProblemSolving\bin\Debug\Wk6-ProblemSolving.exe.config
+D:\CNM Docs\Programming\C#\Wk6-ProblemSolving\Wk6-ProblemSolving\bin\Debug\Wk6-ProblemSolving.exe
+D:\CNM Docs\Programming\C#\Wk6-ProblemSolving\Wk6-ProblemSolving\bin\Debug\Wk6-ProblemSolving.pdb
+D:\CNM Docs\Programming\C#\Wk6-ProblemSolving\Wk6-ProblemSolving\obj\Debug\Wk6-ProblemSolving.csprojAssemblyReference.cache
+D:\CNM Docs\Programming\C#\Wk6-ProblemSolving\Wk6-ProblemSolving\obj\Debug\Wk6-ProblemSolving.csproj.CoreCompileInputs.cache
+D:\CNM Docs\Programming\C#\Wk6-ProblemSolving\Wk6-ProblemSolving\obj\Debug\Wk6-ProblemSolving.exe
+D:\CNM Docs\Programming\C#\Wk6-ProblemSolving\Wk6-ProblemSolving\obj\Debug\Wk6-ProblemSolving.pdb

@@ -1,0 +1,7 @@
+D:\CNM Docs\Programming\C#\HackerRank\SherlockAndTheValidString\SherlockAndTheValidString\bin\Debug\SherlockAndTheValidString.exe.config
+D:\CNM Docs\Programming\C#\HackerRank\SherlockAndTheValidString\SherlockAndTheValidString\bin\Debug\SherlockAndTheValidString.exe
+D:\CNM Docs\Programming\C#\HackerRank\SherlockAndTheValidString\SherlockAndTheValidString\bin\Debug\SherlockAndTheValidString.pdb
+D:\CNM Docs\Programming\C#\HackerRank\SherlockAndTheValidString\SherlockAndTheValidString\obj\Debug\SherlockAndTheValidString.csprojAssemblyReference.cache
+D:\CNM Docs\Programming\C#\HackerRank\SherlockAndTheValidString\SherlockAndTheValidString\obj\Debug\SherlockAndTheValidString.csproj.CoreCompileInputs.cache
+D:\CNM Docs\Programming\C#\HackerRank\SherlockAndTheValidString\SherlockAndTheValidString\obj\Debug\SherlockAndTheValidString.exe
+D:\CNM Docs\Programming\C#\HackerRank\SherlockAndTheValidString\SherlockAndTheValidString\obj\Debug\SherlockAndTheValidString.pdb

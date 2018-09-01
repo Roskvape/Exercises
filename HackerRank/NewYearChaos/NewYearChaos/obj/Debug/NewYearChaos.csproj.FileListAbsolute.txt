@@ -1,0 +1,7 @@
+D:\CNM Docs\Programming\C#\NewYearChaos\NewYearChaos\obj\Debug\NewYearChaos.csprojAssemblyReference.cache
+D:\CNM Docs\Programming\C#\NewYearChaos\NewYearChaos\obj\Debug\NewYearChaos.csproj.CoreCompileInputs.cache
+D:\CNM Docs\Programming\C#\NewYearChaos\NewYearChaos\bin\Debug\NewYearChaos.exe.config
+D:\CNM Docs\Programming\C#\NewYearChaos\NewYearChaos\bin\Debug\NewYearChaos.exe
+D:\CNM Docs\Programming\C#\NewYearChaos\NewYearChaos\bin\Debug\NewYearChaos.pdb
+D:\CNM Docs\Programming\C#\NewYearChaos\NewYearChaos\obj\Debug\NewYearChaos.exe
+D:\CNM Docs\Programming\C#\NewYearChaos\NewYearChaos\obj\Debug\NewYearChaos.pdb

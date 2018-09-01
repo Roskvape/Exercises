@@ -1,0 +1,7 @@
+D:\CNM Docs\Programming\C#\HackerRank\RecursiveStaircase\RecursiveStaircase\obj\Debug\RecursiveStaircase.csprojAssemblyReference.cache
+D:\CNM Docs\Programming\C#\HackerRank\RecursiveStaircase\RecursiveStaircase\obj\Debug\RecursiveStaircase.csproj.CoreCompileInputs.cache
+D:\CNM Docs\Programming\C#\HackerRank\RecursiveStaircase\RecursiveStaircase\bin\Debug\RecursiveStaircase.exe.config
+D:\CNM Docs\Programming\C#\HackerRank\RecursiveStaircase\RecursiveStaircase\bin\Debug\RecursiveStaircase.exe
+D:\CNM Docs\Programming\C#\HackerRank\RecursiveStaircase\RecursiveStaircase\bin\Debug\RecursiveStaircase.pdb
+D:\CNM Docs\Programming\C#\HackerRank\RecursiveStaircase\RecursiveStaircase\obj\Debug\RecursiveStaircase.exe
+D:\CNM Docs\Programming\C#\HackerRank\RecursiveStaircase\RecursiveStaircase\obj\Debug\RecursiveStaircase.pdb

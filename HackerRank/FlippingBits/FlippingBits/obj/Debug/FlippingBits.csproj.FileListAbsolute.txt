@@ -1,0 +1,7 @@
+D:\CNM Docs\Programming\C#\HackerRank\FlippingBits\FlippingBits\bin\Debug\FlippingBits.exe.config
+D:\CNM Docs\Programming\C#\HackerRank\FlippingBits\FlippingBits\bin\Debug\FlippingBits.exe
+D:\CNM Docs\Programming\C#\HackerRank\FlippingBits\FlippingBits\bin\Debug\FlippingBits.pdb
+D:\CNM Docs\Programming\C#\HackerRank\FlippingBits\FlippingBits\obj\Debug\FlippingBits.csprojAssemblyReference.cache
+D:\CNM Docs\Programming\C#\HackerRank\FlippingBits\FlippingBits\obj\Debug\FlippingBits.csproj.CoreCompileInputs.cache
+D:\CNM Docs\Programming\C#\HackerRank\FlippingBits\FlippingBits\obj\Debug\FlippingBits.exe
+D:\CNM Docs\Programming\C#\HackerRank\FlippingBits\FlippingBits\obj\Debug\FlippingBits.pdb
