@@ -1,0 +1,9 @@
+U:\Training\C Sharp\Bank\Bank\bin\Debug\netstandard2.0\Bank.deps.json
+U:\Training\C Sharp\Bank\Bank\bin\Debug\netstandard2.0\Bank.dll
+U:\Training\C Sharp\Bank\Bank\bin\Debug\netstandard2.0\Bank.pdb
+U:\Training\C Sharp\Bank\Bank\obj\Debug\netstandard2.0\Bank.csprojAssemblyReference.cache
+U:\Training\C Sharp\Bank\Bank\obj\Debug\netstandard2.0\Bank.csproj.CoreCompileInputs.cache
+U:\Training\C Sharp\Bank\Bank\obj\Debug\netstandard2.0\Bank.AssemblyInfoInputs.cache
+U:\Training\C Sharp\Bank\Bank\obj\Debug\netstandard2.0\Bank.AssemblyInfo.cs
+U:\Training\C Sharp\Bank\Bank\obj\Debug\netstandard2.0\Bank.dll
+U:\Training\C Sharp\Bank\Bank\obj\Debug\netstandard2.0\Bank.pdb

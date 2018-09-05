@@ -1,0 +1,7 @@
+U:\Training\C Sharp\Centering\Centering\bin\Debug\Centering.exe.config
+U:\Training\C Sharp\Centering\Centering\bin\Debug\Centering.exe
+U:\Training\C Sharp\Centering\Centering\bin\Debug\Centering.pdb
+U:\Training\C Sharp\Centering\Centering\obj\Debug\Centering.csprojAssemblyReference.cache
+U:\Training\C Sharp\Centering\Centering\obj\Debug\Centering.csproj.CoreCompileInputs.cache
+U:\Training\C Sharp\Centering\Centering\obj\Debug\Centering.exe
+U:\Training\C Sharp\Centering\Centering\obj\Debug\Centering.pdb
