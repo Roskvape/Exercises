@@ -1,0 +1,7 @@
+U:\Training\C Sharp\ATTA Prep Course\Week 6\Week6\Week6\bin\Debug\Week6.exe.config
+U:\Training\C Sharp\ATTA Prep Course\Week 6\Week6\Week6\bin\Debug\Week6.exe
+U:\Training\C Sharp\ATTA Prep Course\Week 6\Week6\Week6\bin\Debug\Week6.pdb
+U:\Training\C Sharp\ATTA Prep Course\Week 6\Week6\Week6\obj\Debug\Week6.csprojResolveAssemblyReference.cache
+U:\Training\C Sharp\ATTA Prep Course\Week 6\Week6\Week6\obj\Debug\Week6.csproj.CoreCompileInputs.cache
+U:\Training\C Sharp\ATTA Prep Course\Week 6\Week6\Week6\obj\Debug\Week6.exe
+U:\Training\C Sharp\ATTA Prep Course\Week 6\Week6\Week6\obj\Debug\Week6.pdb

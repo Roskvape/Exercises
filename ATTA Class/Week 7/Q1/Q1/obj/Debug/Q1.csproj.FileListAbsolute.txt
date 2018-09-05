@@ -1,0 +1,24 @@
+C:\Users\semerson\Desktop\Code Experiments\Q1\Q1\bin\Debug\Q1.exe.config
+C:\Users\semerson\Desktop\Code Experiments\Q1\Q1\bin\Debug\Q1.exe
+C:\Users\semerson\Desktop\Code Experiments\Q1\Q1\bin\Debug\Q1.pdb
+C:\Users\semerson\Desktop\Code Experiments\Q1\Q1\obj\Debug\Q1.csprojResolveAssemblyReference.cache
+C:\Users\semerson\Desktop\Code Experiments\Q1\Q1\obj\Debug\Q1.exe
+C:\Users\semerson\Desktop\Code Experiments\Q1\Q1\obj\Debug\Q1.pdb
+\\corp.blizzard.net\teams\Blizzard_Academy\Private\SDE\ATTA Prep\Q1\Q1\bin\Debug\Q1.exe.config
+\\corp.blizzard.net\teams\Blizzard_Academy\Private\SDE\ATTA Prep\Q1\Q1\obj\Debug\Q1.exe
+\\corp.blizzard.net\teams\Blizzard_Academy\Private\SDE\ATTA Prep\Q1\Q1\obj\Debug\Q1.pdb
+\\corp.blizzard.net\teams\Blizzard_Academy\Public\SDE\PT\Q1\Q1\bin\Debug\Q1.exe.config
+\\corp.blizzard.net\teams\Blizzard_Academy\Public\SDE\PT\Q1\Q1\obj\Debug\Q1.exe
+\\corp.blizzard.net\teams\Blizzard_Academy\Public\SDE\PT\Q1\Q1\obj\Debug\Q1.pdb
+\\corp.blizzard.net\teams\Blizzard_Academy\Public\SDE\PT\Q1\Q1\bin\Debug\Q1.exe
+\\corp.blizzard.net\teams\Blizzard_Academy\Public\SDE\PT\Q1\Q1\bin\Debug\Q1.pdb
+\\corp.blizzard.net\teams\Blizzard_Academy\Public\SDE\PT\Q1\Q1\obj\Debug\Q1.csprojResolveAssemblyReference.cache
+C:\Users\semerson\Desktop\Q1\Q1\bin\Debug\Q1.exe.config
+C:\Users\semerson\Desktop\Q1\Q1\obj\Debug\Q1.exe
+C:\Users\semerson\Desktop\Q1\Q1\obj\Debug\Q1.pdb
+C:\Users\semerson\Desktop\Q1\Q1\bin\Debug\Q1.exe
+C:\Users\semerson\Desktop\Q1\Q1\bin\Debug\Q1.pdb
+C:\Users\semerson\Desktop\Q1\Q1\obj\Debug\Q1.csprojResolveAssemblyReference.cache
+\\corp.blizzard.net\teams\Blizzard_Academy\Public\SDE\ATTA\ATTA_S7\Q1\Q1\bin\Debug\Q1.exe.config
+\\corp.blizzard.net\teams\Blizzard_Academy\Public\SDE\ATTA\ATTA_S7\Q1\Q1\obj\Debug\Q1.exe
+\\corp.blizzard.net\teams\Blizzard_Academy\Public\SDE\ATTA\ATTA_S7\Q1\Q1\obj\Debug\Q1.pdb

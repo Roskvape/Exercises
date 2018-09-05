@@ -1,0 +1,7 @@
+U:\Training\C Sharp\ATTA Prep Course\Week 3\Homework\Wk3_Homework\Wk3_Homework\bin\Debug\Wk3_Homework.exe.config
+U:\Training\C Sharp\ATTA Prep Course\Week 3\Homework\Wk3_Homework\Wk3_Homework\bin\Debug\Wk3_Homework.exe
+U:\Training\C Sharp\ATTA Prep Course\Week 3\Homework\Wk3_Homework\Wk3_Homework\bin\Debug\Wk3_Homework.pdb
+U:\Training\C Sharp\ATTA Prep Course\Week 3\Homework\Wk3_Homework\Wk3_Homework\obj\Debug\Wk3_Homework.csprojResolveAssemblyReference.cache
+U:\Training\C Sharp\ATTA Prep Course\Week 3\Homework\Wk3_Homework\Wk3_Homework\obj\Debug\Wk3_Homework.csproj.CoreCompileInputs.cache
+U:\Training\C Sharp\ATTA Prep Course\Week 3\Homework\Wk3_Homework\Wk3_Homework\obj\Debug\Wk3_Homework.exe
+U:\Training\C Sharp\ATTA Prep Course\Week 3\Homework\Wk3_Homework\Wk3_Homework\obj\Debug\Wk3_Homework.pdb
