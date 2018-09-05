@@ -1,0 +1,7 @@
+U:\Training\C Sharp\Git - Exercises\Miscellany\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.csprojAssemblyReference.cache
+U:\Training\C Sharp\Git - Exercises\Miscellany\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.csproj.CoreCompileInputs.cache
+U:\Training\C Sharp\Git - Exercises\Miscellany\LambdaExpressions\LambdaExpressions\bin\Debug\LambdaExpressions.exe.config
+U:\Training\C Sharp\Git - Exercises\Miscellany\LambdaExpressions\LambdaExpressions\bin\Debug\LambdaExpressions.exe
+U:\Training\C Sharp\Git - Exercises\Miscellany\LambdaExpressions\LambdaExpressions\bin\Debug\LambdaExpressions.pdb
+U:\Training\C Sharp\Git - Exercises\Miscellany\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.exe
+U:\Training\C Sharp\Git - Exercises\Miscellany\LambdaExpressions\LambdaExpressions\obj\Debug\LambdaExpressions.pdb
