@@ -1,0 +1,7 @@
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\FraudulentActivityNotifications\FraudulentActivityNotifications\bin\Debug\FraudulentActivityNotifications.exe.config
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\FraudulentActivityNotifications\FraudulentActivityNotifications\bin\Debug\FraudulentActivityNotifications.exe
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\FraudulentActivityNotifications\FraudulentActivityNotifications\bin\Debug\FraudulentActivityNotifications.pdb
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\FraudulentActivityNotifications\FraudulentActivityNotifications\obj\Debug\FraudulentActivityNotifications.csprojResolveAssemblyReference.cache
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\FraudulentActivityNotifications\FraudulentActivityNotifications\obj\Debug\FraudulentActivityNotifications.csproj.CoreCompileInputs.cache
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\FraudulentActivityNotifications\FraudulentActivityNotifications\obj\Debug\FraudulentActivityNotifications.exe
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\FraudulentActivityNotifications\FraudulentActivityNotifications\obj\Debug\FraudulentActivityNotifications.pdb

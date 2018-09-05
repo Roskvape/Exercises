@@ -1,0 +1,7 @@
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\MarkAndToys\MarkAndToys\obj\Debug\MarkAndToys.csprojResolveAssemblyReference.cache
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\MarkAndToys\MarkAndToys\obj\Debug\MarkAndToys.csproj.CoreCompileInputs.cache
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\MarkAndToys\MarkAndToys\bin\Debug\MarkAndToys.exe.config
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\MarkAndToys\MarkAndToys\bin\Debug\MarkAndToys.exe
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\MarkAndToys\MarkAndToys\bin\Debug\MarkAndToys.pdb
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\MarkAndToys\MarkAndToys\obj\Debug\MarkAndToys.exe
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\MarkAndToys\MarkAndToys\obj\Debug\MarkAndToys.pdb

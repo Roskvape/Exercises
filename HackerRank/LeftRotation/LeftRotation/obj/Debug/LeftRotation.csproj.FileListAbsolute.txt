@@ -1,0 +1,7 @@
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\LeftRotation\LeftRotation\bin\Debug\LeftRotation.exe.config
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\LeftRotation\LeftRotation\bin\Debug\LeftRotation.exe
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\LeftRotation\LeftRotation\bin\Debug\LeftRotation.pdb
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\LeftRotation\LeftRotation\obj\Debug\LeftRotation.csprojResolveAssemblyReference.cache
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\LeftRotation\LeftRotation\obj\Debug\LeftRotation.csproj.CoreCompileInputs.cache
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\LeftRotation\LeftRotation\obj\Debug\LeftRotation.exe
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\LeftRotation\LeftRotation\obj\Debug\LeftRotation.pdb

@@ -1,0 +1,7 @@
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\MinAbsDiffInAnArray\MinAbsDiffInAnArray\bin\Debug\MinAbsDiffInAnArray.exe.config
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\MinAbsDiffInAnArray\MinAbsDiffInAnArray\bin\Debug\MinAbsDiffInAnArray.exe
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\MinAbsDiffInAnArray\MinAbsDiffInAnArray\bin\Debug\MinAbsDiffInAnArray.pdb
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\MinAbsDiffInAnArray\MinAbsDiffInAnArray\obj\Debug\MinAbsDiffInAnArray.csproj.CoreCompileInputs.cache
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\MinAbsDiffInAnArray\MinAbsDiffInAnArray\obj\Debug\MinAbsDiffInAnArray.exe
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\MinAbsDiffInAnArray\MinAbsDiffInAnArray\obj\Debug\MinAbsDiffInAnArray.pdb
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\MinAbsDiffInAnArray\MinAbsDiffInAnArray\obj\Debug\MinAbsDiffInAnArray.csprojResolveAssemblyReference.cache

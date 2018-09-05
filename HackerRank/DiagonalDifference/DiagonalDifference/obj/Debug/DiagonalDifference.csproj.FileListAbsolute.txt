@@ -1,0 +1,7 @@
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\DiagonalDifference\DiagonalDifference\obj\Debug\DiagonalDifference.csprojResolveAssemblyReference.cache
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\DiagonalDifference\DiagonalDifference\obj\Debug\DiagonalDifference.csproj.CoreCompileInputs.cache
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\DiagonalDifference\DiagonalDifference\bin\Debug\DiagonalDifference.exe.config
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\DiagonalDifference\DiagonalDifference\bin\Debug\DiagonalDifference.exe
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\DiagonalDifference\DiagonalDifference\bin\Debug\DiagonalDifference.pdb
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\DiagonalDifference\DiagonalDifference\obj\Debug\DiagonalDifference.exe
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\DiagonalDifference\DiagonalDifference\obj\Debug\DiagonalDifference.pdb

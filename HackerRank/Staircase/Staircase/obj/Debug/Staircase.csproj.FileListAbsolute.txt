@@ -1,0 +1,7 @@
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\Staircase\Staircase\bin\Debug\Staircase.exe.config
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\Staircase\Staircase\bin\Debug\Staircase.exe
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\Staircase\Staircase\bin\Debug\Staircase.pdb
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\Staircase\Staircase\obj\Debug\Staircase.csprojResolveAssemblyReference.cache
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\Staircase\Staircase\obj\Debug\Staircase.csproj.CoreCompileInputs.cache
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\Staircase\Staircase\obj\Debug\Staircase.exe
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\Staircase\Staircase\obj\Debug\Staircase.pdb

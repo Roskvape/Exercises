@@ -1,0 +1,6 @@
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\CharTest\CharTest\bin\Debug\CharTest.exe.config
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\CharTest\CharTest\bin\Debug\CharTest.exe
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\CharTest\CharTest\bin\Debug\CharTest.pdb
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\CharTest\CharTest\obj\Debug\CharTest.csproj.CoreCompileInputs.cache
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\CharTest\CharTest\obj\Debug\CharTest.exe
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\CharTest\CharTest\obj\Debug\CharTest.pdb

@@ -1,0 +1,1 @@
+U:\Training\C Sharp\ATTA Prep Course\Misc\InsertionSort\InsertionSort\bin\Debug\InsertionSort.exe.config

@@ -1,0 +1,7 @@
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\TimeConversion\TimeConversion\bin\Debug\TimeConversion.exe.config
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\TimeConversion\TimeConversion\bin\Debug\TimeConversion.exe
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\TimeConversion\TimeConversion\bin\Debug\TimeConversion.pdb
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\TimeConversion\TimeConversion\obj\Debug\TimeConversion.csprojResolveAssemblyReference.cache
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\TimeConversion\TimeConversion\obj\Debug\TimeConversion.csproj.CoreCompileInputs.cache
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\TimeConversion\TimeConversion\obj\Debug\TimeConversion.exe
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\TimeConversion\TimeConversion\obj\Debug\TimeConversion.pdb

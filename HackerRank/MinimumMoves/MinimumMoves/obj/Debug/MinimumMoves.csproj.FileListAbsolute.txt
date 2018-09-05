@@ -1,0 +1,7 @@
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\MinimumMoves\MinimumMoves\bin\Debug\MinimumMoves.exe.config
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\MinimumMoves\MinimumMoves\bin\Debug\MinimumMoves.exe
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\MinimumMoves\MinimumMoves\bin\Debug\MinimumMoves.pdb
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\MinimumMoves\MinimumMoves\obj\Debug\MinimumMoves.csprojResolveAssemblyReference.cache
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\MinimumMoves\MinimumMoves\obj\Debug\MinimumMoves.csproj.CoreCompileInputs.cache
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\MinimumMoves\MinimumMoves\obj\Debug\MinimumMoves.exe
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\MinimumMoves\MinimumMoves\obj\Debug\MinimumMoves.pdb

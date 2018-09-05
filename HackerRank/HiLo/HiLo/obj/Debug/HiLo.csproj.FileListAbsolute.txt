@@ -1,0 +1,6 @@
+U:\Training\C Sharp\ATTA Prep Course\Misc\HiLo\HiLo\bin\Debug\HiLo.exe.config
+U:\Training\C Sharp\ATTA Prep Course\Misc\HiLo\HiLo\bin\Debug\HiLo.exe
+U:\Training\C Sharp\ATTA Prep Course\Misc\HiLo\HiLo\bin\Debug\HiLo.pdb
+U:\Training\C Sharp\ATTA Prep Course\Misc\HiLo\HiLo\obj\Debug\HiLo.csprojResolveAssemblyReference.cache
+U:\Training\C Sharp\ATTA Prep Course\Misc\HiLo\HiLo\obj\Debug\HiLo.exe
+U:\Training\C Sharp\ATTA Prep Course\Misc\HiLo\HiLo\obj\Debug\HiLo.pdb

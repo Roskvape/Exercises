@@ -1,0 +1,6 @@
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\DungeonsNDragons\DungeonsNDragons\bin\Debug\DungeonsNDragons.exe.config
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\DungeonsNDragons\DungeonsNDragons\bin\Debug\DungeonsNDragons.exe
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\DungeonsNDragons\DungeonsNDragons\bin\Debug\DungeonsNDragons.pdb
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\DungeonsNDragons\DungeonsNDragons\obj\Debug\DungeonsNDragons.csproj.CoreCompileInputs.cache
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\DungeonsNDragons\DungeonsNDragons\obj\Debug\DungeonsNDragons.exe
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\DungeonsNDragons\DungeonsNDragons\obj\Debug\DungeonsNDragons.pdb

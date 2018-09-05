@@ -1,0 +1,7 @@
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\MinimumSwaps2\MinimumSwaps2\bin\Debug\MinimumSwaps2.exe.config
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\MinimumSwaps2\MinimumSwaps2\bin\Debug\MinimumSwaps2.exe
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\MinimumSwaps2\MinimumSwaps2\bin\Debug\MinimumSwaps2.pdb
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\MinimumSwaps2\MinimumSwaps2\obj\Debug\MinimumSwaps2.csprojResolveAssemblyReference.cache
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\MinimumSwaps2\MinimumSwaps2\obj\Debug\MinimumSwaps2.csproj.CoreCompileInputs.cache
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\MinimumSwaps2\MinimumSwaps2\obj\Debug\MinimumSwaps2.exe
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\MinimumSwaps2\MinimumSwaps2\obj\Debug\MinimumSwaps2.pdb

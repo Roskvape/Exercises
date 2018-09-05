@@ -1,0 +1,7 @@
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\MiniMax\MiniMax\bin\Debug\MiniMax.exe.config
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\MiniMax\MiniMax\bin\Debug\MiniMax.exe
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\MiniMax\MiniMax\bin\Debug\MiniMax.pdb
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\MiniMax\MiniMax\obj\Debug\MiniMax.csprojResolveAssemblyReference.cache
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\MiniMax\MiniMax\obj\Debug\MiniMax.csproj.CoreCompileInputs.cache
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\MiniMax\MiniMax\obj\Debug\MiniMax.exe
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\MiniMax\MiniMax\obj\Debug\MiniMax.pdb

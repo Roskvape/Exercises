@@ -1,0 +1,7 @@
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\Romanizer\Romanizer\obj\Debug\Romanizer.csprojResolveAssemblyReference.cache
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\Romanizer\Romanizer\obj\Debug\Romanizer.csproj.CoreCompileInputs.cache
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\Romanizer\Romanizer\bin\Debug\Romanizer.exe.config
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\Romanizer\Romanizer\bin\Debug\Romanizer.exe
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\Romanizer\Romanizer\bin\Debug\Romanizer.pdb
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\Romanizer\Romanizer\obj\Debug\Romanizer.exe
+U:\Training\C Sharp\ATTA Prep Course\Misc\HackerRank\Romanizer\Romanizer\obj\Debug\Romanizer.pdb
