@@ -1,0 +1,7 @@
+C:\Users\cmoyer\source\repos\CommonChild\CommonChild\obj\Debug\CommonChild.csprojAssemblyReference.cache
+C:\Users\cmoyer\source\repos\CommonChild\CommonChild\obj\Debug\CommonChild.csproj.CoreCompileInputs.cache
+C:\Users\cmoyer\source\repos\CommonChild\CommonChild\bin\Debug\CommonChild.exe.config
+C:\Users\cmoyer\source\repos\CommonChild\CommonChild\bin\Debug\CommonChild.exe
+C:\Users\cmoyer\source\repos\CommonChild\CommonChild\bin\Debug\CommonChild.pdb
+C:\Users\cmoyer\source\repos\CommonChild\CommonChild\obj\Debug\CommonChild.exe
+C:\Users\cmoyer\source\repos\CommonChild\CommonChild\obj\Debug\CommonChild.pdb

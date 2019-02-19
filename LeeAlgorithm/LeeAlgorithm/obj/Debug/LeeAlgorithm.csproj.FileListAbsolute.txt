@@ -1,0 +1,7 @@
+C:\Users\cmoyer\source\repos\LeeAlgorithm\LeeAlgorithm\bin\Debug\LeeAlgorithm.exe.config
+C:\Users\cmoyer\source\repos\LeeAlgorithm\LeeAlgorithm\bin\Debug\LeeAlgorithm.exe
+C:\Users\cmoyer\source\repos\LeeAlgorithm\LeeAlgorithm\bin\Debug\LeeAlgorithm.pdb
+C:\Users\cmoyer\source\repos\LeeAlgorithm\LeeAlgorithm\obj\Debug\LeeAlgorithm.csprojAssemblyReference.cache
+C:\Users\cmoyer\source\repos\LeeAlgorithm\LeeAlgorithm\obj\Debug\LeeAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\cmoyer\source\repos\LeeAlgorithm\LeeAlgorithm\obj\Debug\LeeAlgorithm.exe
+C:\Users\cmoyer\source\repos\LeeAlgorithm\LeeAlgorithm\obj\Debug\LeeAlgorithm.pdb

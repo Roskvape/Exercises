@@ -15,19 +15,22 @@ namespace LambdaExpressions
             string sMake = Console.ReadLine();
             Console.WriteLine("\nEnter a Model:");
             string sModel = Console.ReadLine();
-            Console.WriteLine("Is it a warship? (Y/N)");
-            if (Console.ReadLine() == "Y")
-            {
-                Warship spaceCraft = new Warship(sMake, sModel);
-            }
-            else
-            {
-                Spacecraft spaceCraft = new Spacecraft(sMake, sModel);
-            }
+
+            Spacecraft spaceCraft = new Spacecraft(sMake, sModel);
+
 
             Console.WriteLine("You have a brand-new ship!");
-            Console.WriteLine(spaceCraft.Make);
-            Console.WriteLine(spaceCraft.Model);
+            Console.WriteLine("Make: " + spaceCraft.Make);
+            Console.WriteLine("Model: " + spaceCraft.Model);
+
+            Console.WriteLine("Add how many crew? (Max: " + spaceCraft.CrewCapacity + ")");
+            spaceCraft.CurrentCrew += Convert.ToInt16(Console.ReadLine());
+
+            Console.WriteLine("You have a new crew!");
+            Console.WriteLine("Crew: " + spaceCraft.CurrentCrew);
+
+            Console.WriteLine("Add how many crew? (Max: " + spaceCraft.CrewCapacity + ")");
+            spaceCraft.CurrentCrew += Convert.ToInt16(Console.ReadLine());
 
             Console.ReadKey();
         }

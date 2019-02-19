@@ -1,0 +1,7 @@
+C:\Users\cmoyer\source\repos\StringsMakingAnagrams\StringsMakingAnagrams\bin\Debug\StringsMakingAnagrams.exe.config
+C:\Users\cmoyer\source\repos\StringsMakingAnagrams\StringsMakingAnagrams\bin\Debug\StringsMakingAnagrams.exe
+C:\Users\cmoyer\source\repos\StringsMakingAnagrams\StringsMakingAnagrams\bin\Debug\StringsMakingAnagrams.pdb
+C:\Users\cmoyer\source\repos\StringsMakingAnagrams\StringsMakingAnagrams\obj\Debug\StringsMakingAnagrams.csprojAssemblyReference.cache
+C:\Users\cmoyer\source\repos\StringsMakingAnagrams\StringsMakingAnagrams\obj\Debug\StringsMakingAnagrams.csproj.CoreCompileInputs.cache
+C:\Users\cmoyer\source\repos\StringsMakingAnagrams\StringsMakingAnagrams\obj\Debug\StringsMakingAnagrams.exe
+C:\Users\cmoyer\source\repos\StringsMakingAnagrams\StringsMakingAnagrams\obj\Debug\StringsMakingAnagrams.pdb
